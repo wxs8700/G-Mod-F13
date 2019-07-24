@@ -1,0 +1,7 @@
+"FridayThe13th"
+{
+	"base"			"base"
+	"title"			"Friday The 13th"
+	"maps"			""
+	"menusystem"	"1"
+}

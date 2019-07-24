@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\SGG\Jason_v/eyeball_r"
+	"$iris" "models\SGG\Jason_v/pupil_r"
+	"$halflambert" 1
+}

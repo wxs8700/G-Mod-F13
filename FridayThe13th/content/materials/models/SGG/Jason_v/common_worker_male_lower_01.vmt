@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\SGG\Jason_v/common_worker_male_lower_01"
+	"$bumpmap" "models\SGG\Jason_v/common_worker_male_lower_01_normal"
+	"$phong" "1"
+	"$halflambert" "1"
+	"$phongexponenttexture" "models\SGG\Jason_v/common_worker_male_lower_01"
+	"$phongexponent" "10"
+	"$phongboost"	".02"
+	"$phongfresnelranges"	"[.25 0.25 .25]"
+}

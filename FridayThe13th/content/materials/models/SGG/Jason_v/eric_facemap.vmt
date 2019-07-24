@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture"	"models\SGG\Jason_v/eric_facemap"
+	"$Bumpmap"	"models\SGG\Jason_v/eric_facemap_normal"
+	"$halflambert" 1
+	"$model" "1"
+
+	// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+	"$ambientocclusiontexture" "models\SGG\Jason_v/eric_facemap_exp"
+	"$phongexponenttexture" "models\SGG\Jason_v/eric_facemap_exp"
+	"$phongexponent" "10"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}
